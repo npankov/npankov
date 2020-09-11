@@ -13,6 +13,14 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pankof/)](https://www.linkedin.com/in/pankof)
   ![](https://visitor-badge.glitch.me/badge?page_id=npankov.npankov)
 
+   <a href="https://www.linkedin.com/in/erika-lopes/">
+    <img src="https://img.shields.io/badge/linkedin-pankof-blue">
+   </a>
+  
+   <a href="https://www.instagram.com/erika.cafezin/">
+    <img src="https://img.shields.io/badge/instagram-nikooooolai-red">
+   </a>
+
 </div>
 
 
