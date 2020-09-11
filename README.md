@@ -8,7 +8,7 @@
 
 <div align="center">
    <a href="https://npankov.github.io/">
-    <img src="https://img.shields.io/badge/website-website-green">
+    <img src="https://img.shields.io/badge/website-green">
    </a>
   
    <a href="https://www.linkedin.com/in/pankof/">
