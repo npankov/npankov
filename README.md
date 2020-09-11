@@ -10,14 +10,12 @@
   
   **📫 Reach me at:**<br>
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opakholis/)](https://www.linkedin.com/in/pankof)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pankof/)](https://www.linkedin.com/in/pankof)
 
 </div>
 
 <!--
-### Hi there 👋
 **npankov/npankov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
