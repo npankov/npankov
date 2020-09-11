@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <div align="center">
 
   ### Hi there, welcome to my Github! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
@@ -15,6 +15,7 @@
 </div>
 
 <!--
+### Hi there 👋
 **npankov/npankov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
