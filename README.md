@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/project--2-genDiff--cli--utilite-blue">
    </a>
    <a href="https://github.com/npankov/frontend-project-lvl1">
-    <img src="https://img.shields.io/badge/project--1-cli--games-blue">
+    <img src="https://img.shields.io/badge/project--3-cli--games-blue">
    </a>
 </div>
 
@@ -25,7 +25,7 @@
    </a>
   
    <a href="https://www.linkedin.com/in/pankof/">
-    <img src="https://img.shields.io/badge/linkedin-pankof-blue">
+    <img src="https://img.shields.io/badge/linkedin-pankof-red">
    </a>
   
    ![](https://visitor-badge.glitch.me/badge?page_id=npankov.npankov)
