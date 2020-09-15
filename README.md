@@ -8,8 +8,13 @@
 </div>  
 
 <div align="center">
-  
-  <a href="https://npankov.github.io/">
+   <a href="https://npankov.github.io/covid19-statistic-project/">
+    <img src="https://img.shields.io/badge/project--fron--end-covid19--statistic-blue">
+   </a>
+</div>
+
+<div align="center">
+   <a href="https://npankov.github.io/">
     <img src="https://img.shields.io/badge/web-cv-red">
    </a>
   
@@ -18,7 +23,6 @@
    </a>
   
    ![](https://visitor-badge.glitch.me/badge?page_id=npankov.npankov)
-   
 </div>
 
 
