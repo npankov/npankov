@@ -9,13 +9,13 @@
 
 <div align="center">
    <a href="https://npankov.github.io/covid19-statistic-project/">
-    <img src="https://img.shields.io/badge/project--front--end-covid19--statistic-black">
+    <img src="https://img.shields.io/badge/project--front--end-covid19--statistic-pink">
    </a>
    <a href="https://github.com/npankov/frontend-project-lvl2">
-    <img src="https://img.shields.io/badge/project--2-genDiff--cli--utilite-black">
+    <img src="https://img.shields.io/badge/project--2-genDiff--cli--utilite-pink">
    </a>
    <a href="https://github.com/npankov/frontend-project-lvl1">
-    <img src="https://img.shields.io/badge/project--3-cli--games-black">
+    <img src="https://img.shields.io/badge/project--3-cli--games-pink">
    </a>
 </div>
 
