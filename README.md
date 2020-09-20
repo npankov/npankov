@@ -8,7 +8,7 @@
 </div>  
 
 <div align="center">
-   <a href="https://npankov.github.io/covid19-statistics-project/">
+   <a href="https://npankov.github.io/covid19-statistic-project/">
     <img src="https://img.shields.io/badge/project--front--end-covid19--statistics-skyblue">
    </a>
    <a href="https://github.com/npankov/frontend-project-lvl2">
