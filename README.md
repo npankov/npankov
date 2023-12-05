@@ -5,9 +5,9 @@
 </div>  
 <div align="center">
    <a href="https://npankov.github.io/">
-    <img src="https://img.shields.io/badge/web-cv-red">
+    <img src="https://img.shields.io/badge/cv-green">
    <a href="https://www.linkedin.com/in/pankof/">
-    <img src="https://img.shields.io/badge/linkedin-pankof-red">
+    <img src="https://img.shields.io/badge/linkedin-blue">
    </a>
 
 </div>
