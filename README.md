@@ -8,7 +8,6 @@
 <div align="center">
    <a href="https://npankov.github.io/">
     <img src="https://img.shields.io/badge/web-cv-red">
-@@ -14,8 +11,6 @@
    <a href="https://www.linkedin.com/in/pankof/">
     <img src="https://img.shields.io/badge/linkedin-pankof-red">
    </a>
