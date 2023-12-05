@@ -6,19 +6,6 @@
   ![github stats](https://github-readme-stats.vercel.app/api?username=npankov&show_icons=true)
   
 </div>  
-
-<div align="center">
-   <a href="https://npankov.github.io/covid19-statistic-project/">
-    <img src="https://img.shields.io/badge/project--front--end-covid19--statistic-skyblue">
-   </a>
-   <a href="https://github.com/npankov/frontend-project-lvl2">
-    <img src="https://img.shields.io/badge/project--2-genDiff--cli--utilite-skyblue">
-   </a>
-   <a href="https://github.com/npankov/frontend-project-lvl1">
-    <img src="https://img.shields.io/badge/project--3-cli--games-skyblue">
-   </a>
-</div>
-
 <div align="center">
    <a href="https://npankov.github.io/">
     <img src="https://img.shields.io/badge/web-cv-red">
